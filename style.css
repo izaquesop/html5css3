@@ -23,11 +23,13 @@
 /* Tablet Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 992px){
     body{
-        background-color: #ff6600;
+        background-color: #f60;
     }
+}
 
 /* PC >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 @media (min-width: 992px){
     body{
         background-color: #f00;
     }
+}
